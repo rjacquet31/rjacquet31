@@ -59,8 +59,9 @@
 ---
 
 <p align="center">
-  <em>✨ “Code. Learn. Repeat.” ✨</em>
+  <em>✨ “Merci d'avoir lus jusqu'ici” ✨</em>
 </p>
+
 
 
 
