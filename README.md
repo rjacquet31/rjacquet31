@@ -1,15 +1,15 @@
-<h1 align="center">👋 SBonjour, moi c’est Rafael !</h1>
+<h1 align="center">👋 Bonjour, moi c’est Rafael !</h1>
 
 <p align="center">
-  <em>Étudiant à <a href="https://42.fr/">l’école 42</a> • Développeur passionné par la programmation, Python et le développement logiciel</em>
+  <em>Étudiant à <a href="https://42.fr/">l’école 42</a> • Développeur passionné depuis toujours par la programmation et le numérique</em>
 </p>
 
 ---
 
 ### 🚀 À propos de moi
 
-- 🎓 Étudiant à l’école **42**, formation en informatique et développement système  
-- 💡 Passionné par la **programmation**, les **projets techniques** et la **création d’outils utiles** 
+- 🎓 Étudiant à l’école **42**, formation en informatique et développement.  
+- 💡 Passionné par le numérique, la logique et la création de projets concrets. 
 
 ---
 
@@ -43,6 +43,7 @@
 <p align="center">
   <em>✨ “Code. Learn. Repeat.” ✨</em>
 </p>
+
 
 
 
