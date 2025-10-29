@@ -13,7 +13,7 @@
 ---
 
 ### 🧱 Projets 42
-
+👉 Vous pouvez retrouver l’ensemble de mes projets réalisés à l’école 42 sur ma page <a href="https://github.com/rjacquet31/42cursus/">42 cursus</a>
 
 ---
 
@@ -61,6 +61,7 @@
 <p align="center">
   <em>✨ “Code. Learn. Repeat.” ✨</em>
 </p>
+
 
 
 
