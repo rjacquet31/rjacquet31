@@ -49,6 +49,7 @@
   J’aime travailler dans un environnement propre, organisé et efficace.
 </p>
 ---
+
 ### 📫 Me contacter
 
 <p align="center">
@@ -61,6 +62,7 @@
 <p align="center">
   <em>✨ “Merci d'avoir lus jusqu'ici” ✨</em>
 </p>
+
 
 
 
