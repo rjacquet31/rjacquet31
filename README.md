@@ -22,15 +22,34 @@
 
 
 ---
-
-### 🛠️ Compétences
+### 💻 Langages appris
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
+</p>
+
+<p align="center">
+  J’ai appris à programmer avec des langages allant du **bas-niveau (C, C++)**  
+  jusqu’au **développement web et applicatif (HTML, CSS, JavaScript, Python)**.  
+  Chaque langage m’a permis d’aborder une nouvelle manière de penser le code,  
+  que ce soit pour optimiser la performance ou concevoir des interfaces plus intuitives.
 </p>
 
 ---
 
+### 🛠️ Technologies & outils maîtrisés
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,notion" />
+</p>
+
+<p align="center">
+  Au fil de mes projets, j’ai appris à utiliser des outils essentiels au travail en équipe :  
+  **Git/GitHub** pour la gestion de versions, **VSCode** pour le développement,  
+  et **Linux/Bash** pour comprendre en profondeur le fonctionnement du système.  
+  J’aime travailler dans un environnement propre, organisé et efficace.
+</p>
+---
 ### 📫 Me contacter
 
 <p align="center">
@@ -43,6 +62,7 @@
 <p align="center">
   <em>✨ “Code. Learn. Repeat.” ✨</em>
 </p>
+
 
 
 
