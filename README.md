@@ -29,8 +29,8 @@
 </p>
 
 <p align="center">
-  J’ai appris à programmer avec des langages allant du **bas-niveau (C, C++)**  
-  jusqu’au **développement web et applicatif (HTML, CSS, JavaScript, Python)**.  
+  J’ai **appris** à programmer avec des langages allant du bas-niveau (C, C++)  
+  jusqu’au développement web et applicatif (HTML, CSS, JavaScript, Python).  
   Chaque langage m’a permis d’aborder une nouvelle manière de penser le code,  
   que ce soit pour optimiser la performance ou concevoir des interfaces plus intuitives.
 </p>
@@ -62,6 +62,7 @@
 <p align="center">
   <em>✨ “Code. Learn. Repeat.” ✨</em>
 </p>
+
 
 
 
