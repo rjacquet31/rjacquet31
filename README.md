@@ -26,7 +26,7 @@
 ### 🛠️ Compétences
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,python,bash,linux,git,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,vscode,github" />
 </p>
 
 ---
@@ -43,6 +43,7 @@
 <p align="center">
   <em>✨ “Code. Learn. Repeat.” ✨</em>
 </p>
+
 
 
 
