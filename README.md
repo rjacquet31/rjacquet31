@@ -39,7 +39,7 @@
 ### 🛠️ Technologies & outils maîtrisés
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash" />
 </p>
 
 <p align="center">
@@ -61,6 +61,7 @@
 <p align="center">
   <em>✨ “Code. Learn. Repeat.” ✨</em>
 </p>
+
 
 
 
