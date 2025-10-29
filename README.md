@@ -1,7 +1,7 @@
-<h1 align="center">👋 Salut, moi c’est [Ton Prénom] !</h1>
+<h1 align="center">👋 SBonjour, moi c’est Rafael !</h1>
 
 <p align="center">
-  <em>Étudiant à <a href="https://42.fr/">l’école 42</a> • Développeur passionné par le C, Python et le développement logiciel</em>
+  <em>Étudiant à <a href="https://42.fr/">l’école 42</a> • Développeur passionné par la programmation, Python et le développement logiciel</em>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tonlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:tonmail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rafael.jacquet.31@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -43,3 +43,4 @@
 <p align="center">
   <em>✨ “Code. Learn. Repeat.” ✨</em>
 </p>
+
