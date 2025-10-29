@@ -18,7 +18,7 @@
 ---
 
 ### 🧩 Projets personnels
-
+👉 Pour mes projets personnel je vous invite aller voir <a href="https://github.com/rjacquet31/42cursus/">cette page</a>
 
 ---
 ### 💻 Langages appris
@@ -61,6 +61,7 @@
 <p align="center">
   <em>✨ “Code. Learn. Repeat.” ✨</em>
 </p>
+
 
 
 
